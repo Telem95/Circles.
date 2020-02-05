@@ -1,6 +1,9 @@
 <h1 align="center">Circles</h1>
 <h3 align="center">Map based communities</h3>
 <p align="center">
+<img src="/images/icon1.png" alt="app-icon">
+</p>
+<p align="center">
 <img src="/images/CirclesMocks.png" alt="screenshots">
 </p>
 <p align="center">
