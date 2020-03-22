@@ -19,7 +19,3 @@ Swift, MapKit
 <p align="center">
 <a href="https://apps.apple.com/us/app/circles-map-based-communities/id1494102290?ls=1"><img src="/images/apple-store-button.png" alt="screenshots"></a>
 </p>
-<p align="center">
-<img src="/images/gif1.gif" alt="circles-gif">
-  <img src="/images/gif2.gif" alt="circles-gif">
-</p>
