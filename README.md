@@ -14,7 +14,7 @@ Easily join other circles you share interest with, and view their custom map.</b
 <p align="center">
 <b>Technologies used</b>
 </br>
-Swift, MapKit
+Swift, MapKit, Firebase
 </p>
 <p align="center">
 <a href="https://apps.apple.com/us/app/circles-map-based-communities/id1494102290?ls=1"><img src="/images/apple-store-button.png" alt="screenshots"></a>
